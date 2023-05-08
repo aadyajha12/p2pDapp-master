@@ -1,7 +1,7 @@
 ## How to run this project
 clone this repo
 ```bash
-git clone http://github.com/mjoel4708/loan-dapp.git
+git clone https://github.com/aadyajha12/p2pDapp-master.git
 ```
 Install Ganache
 https://truffleframework.com/ganache
